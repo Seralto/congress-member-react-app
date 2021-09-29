@@ -1,0 +1,28 @@
+.App-header {
+  background-color: #222;
+  margin-bottom: 2rem;
+  padding: 10px 0;
+  color: white;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .Filters {
+    display: flex;
+    justify-content: space-between;
+
+    select {
+      margin-right: 1rem;
+    }
+  }
+
+  .Search-input {
+    border-radius: 5px;
+    height: 2rem;
+    padding: 0.5rem;
+    width: 15rem;
+  }
+}
