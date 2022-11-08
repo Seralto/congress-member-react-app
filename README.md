@@ -2,10 +2,6 @@
 
 This project shows a list of congress members based on the API [ProPublica](https://projects.propublica.org/api-docs/congress-api/members/#lists-of-members).
 
-## Live demo
-
-You can see a live demo [here](https://congress-members-react-app.herokuapp.com/).
-
 ## Dependencies
 
 The project has the following dependencies:
